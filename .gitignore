@@ -1,0 +1,4 @@
+/main
+/tests/*.passed
+/tests/*-actual-*.txt
+/*.formatted
